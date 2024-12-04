@@ -54,9 +54,6 @@ npm run dev
    - Experiencia de usuario optimizada
    - Rendimiento mejorado en dispositivos móviles
 
-## 📱 Vista Previa
-
-[Insertar capturas de pantalla o GIF del proyecto]
 
 ## 🤝 Contribución
 
@@ -74,9 +71,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## 📬 Contacto
 
-- Nombre - [Tu nombre]
-- Email - [Tu email]
-- Link del Proyecto: [https://github.com/tuusuario/eshopex-landing](https://github.com/tuusuario/eshopex-landing)
+- Nombre - Francisco Lopez
+- Email - panchodev@gmail.com
+- LinkedIn: [Francisco A. Lopez](https://www.linkedin.com/in/francisco-lopez-cl/)
 
 ---
 ⭐️ Si te gustó este proyecto, ¡no olvides darle una estrella!
